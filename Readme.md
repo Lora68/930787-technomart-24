@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Лариса Давыдова](https://up.htmlacademy.ru/htmlcss/24/user/930787).
-* Наставник: [Катя Микулянец] (https://htmlacademy.ru/profile/id50166).
+* Наставник: [Катя Микулянец] (https://htmlacademy.ru/profile/id50166)
 
 ---
 
